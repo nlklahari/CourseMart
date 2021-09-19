@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "500700941527",
+    "project_id": "coursemart-b58f8",
+    "storage_bucket": "coursemart-b58f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500700941527:android:dad418d618acd5c206f492",
+        "android_client_info": {
+          "package_name": "course.mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500700941527-6uu49u8pj86t2pcreg437b0e0a1cji6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvW1E_IRfxq2yaq4rwZU5YZAoxY18Ad7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500700941527-6uu49u8pj86t2pcreg437b0e0a1cji6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
