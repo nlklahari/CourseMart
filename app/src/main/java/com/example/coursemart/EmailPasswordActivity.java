@@ -1,6 +1,7 @@
 package com.example.coursemart;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -47,6 +48,8 @@ public class EmailPasswordActivity extends Activity {
             @Override
             public void onClick(View view) {
                 signIn(etEmail.getText().toString(), etPassword.getText().toString());
+                Intent intent = new Intent(EmailPasswordActivity.this, MainActivity.class);
+                EmailPasswordActivity.this.startActivity(intent);
             }
         });
 
