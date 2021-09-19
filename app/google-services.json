@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "500700941527",
-    "project_id": "coursemart-b58f8",
-    "storage_bucket": "coursemart-b58f8.appspot.com"
+    "project_number": "910362086043",
+    "project_id": "coursemart1",
+    "storage_bucket": "coursemart1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:500700941527:android:dad418d618acd5c206f492",
+        "mobilesdk_app_id": "1:910362086043:android:55cf5d76d17555f498943e",
         "android_client_info": {
-          "package_name": "course.mart"
+          "package_name": "com.example.mart"
         }
       },
       "oauth_client": [
         {
-          "client_id": "500700941527-6uu49u8pj86t2pcreg437b0e0a1cji6f.apps.googleusercontent.com",
+          "client_id": "910362086043-41rh2fsn45r8nrkqu572rt3ti10ek1js.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDvW1E_IRfxq2yaq4rwZU5YZAoxY18Ad7Q"
+          "current_key": "AIzaSyAiBAlNTPWTJZmxCQRiU748YdQUFYSXe2I"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "500700941527-6uu49u8pj86t2pcreg437b0e0a1cji6f.apps.googleusercontent.com",
+              "client_id": "910362086043-41rh2fsn45r8nrkqu572rt3ti10ek1js.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
